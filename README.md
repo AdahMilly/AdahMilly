@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as an Intern at [TheJItu](https://thejitu.com/)
+- 🔭 I am a detail oriented and solution driven technology enthusiast and a software engineer specializing in web application development and APIs,mentoring and          community work.
 - 🌱 All things Reactjs and Nodejs
 
 
