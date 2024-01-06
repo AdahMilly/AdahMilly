@@ -3,12 +3,12 @@
 
 ### Hi there <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> I'm Mildred Anyango
 
-#### Software Engineer/ QA/QE :)
+#### Software Developer/ PM :)
 
 Here are some ideas to get you started:
 
-- 🔭 I am a detail-oriented, solution-driven technology enthusiast and a software engineer specializing in web application development, APIs, mentoring, and          community work.
-- 🌱 All things Reactjs and Nodejs
+- 🔭 I am a detail-oriented, solution-driven technology enthusiast and a software engineer specializing in web application development, APIs, mentoring, and community work.
+- 🌱 All things C#, Reactjs, NextJs and Nodejs
 
 
 <p align="center">
