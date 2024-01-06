@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I am a detail-oriented, solution-driven technology enthusiast and a software engineer specializing in web application development, APIs, mentoring, and community work.
-- 🌱 All things C#, Reactjs, NextJs and Nodejs
+- 🌱 All things JavaScript, TypeScript, C#, Reactjs, NextJs and Nodejs
 
 
 <p align="center">
